@@ -26,7 +26,7 @@ export default function About() {
               saya belajar tentang sistem, logika, dan feedback loop.
             </p>
             <p className="r s4">
-              Berbasis di Semarang. Terbuka untuk remote dan kolaborasi lintas kota.
+              Berbasis di Yogyakarta. Terbuka untuk remote dan kolaborasi lintas kota.
             </p>
             <a className="cv-btn r s5" href="CV-Arya-Mahendra.pdf" download>
               <svg viewBox="0 0 24 24">
