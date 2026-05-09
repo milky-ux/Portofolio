@@ -1,4 +1,4 @@
-# Portfolio — Arya Mahendra
+# Portfolio — MaaL
 React + Vite (frontend) · Node.js + Express (backend)
 
 ---
