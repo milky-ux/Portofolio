@@ -2,8 +2,8 @@ import { useState } from 'react'
 
 const links = [
   { label: 'malikragilsyaputra385.com',  href: 'mailto:malikragilsyaputra385.com' },
-  { label: 'LinkedIn',          href: 'https://linkedin.com/in/aryamahendra', external: true },
-  { label: 'GitHub',            href: 'https://github.com/aryamahendra',      external: true },
+  { label: 'LinkedIn',          href: 'https://www.linkedin.com/in/malik-syaputra-b11550359?utm_source=share_via&utm_content=profile&utm_medium=member_android', external: true },
+  { label: 'GitHub',            href: 'https://github.com/milky-ux',      external: true },
   { label: '+62 896-6854-0337', href: 'tel:+6289668540337' },
 ]
 
@@ -69,12 +69,12 @@ export default function Contact() {
           <div className="contact-form r s2">
             <div className="field">
               <label htmlFor="c-name">Nama</label>
-              <input id="c-name" name="name" type="text" placeholder="John Doe"
+              <input id="c-name" name="name" type="text" placeholder="Nama"
                 value={form.name} onChange={handleChange} />
             </div>
             <div className="field">
               <label htmlFor="c-email">Email</label>
-              <input id="c-email" name="email" type="email" placeholder="john@email.com"
+              <input id="c-email" name="email" type="email" placeholder="example@email.com"
                 value={form.email} onChange={handleChange} />
             </div>
             <div className="field">
